@@ -34,4 +34,6 @@ function makeInt(a){
   return number;
 }
 
-function preserveDec
+function preserveDecimal(a){
+  number = 
+}
