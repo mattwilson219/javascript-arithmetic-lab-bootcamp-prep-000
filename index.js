@@ -29,4 +29,4 @@ function dec(a){
   return number;
 }
 
-function parseInt
+function makeInt()
